@@ -1,4 +1,4 @@
-# DataScienceMiniProjects
+# Data Science Mini Projects
 
 Small Projects for a Data Science Class
 
@@ -8,3 +8,7 @@ Data Cleaning, Visualization and Exploration, and Linear Regression Model using 
 
 ## MP 3
 Data Cleaning, Visualization and Exploration, and Logistic Regression Model using reddit data. 
+
+## MP 4 & 5
+
+Data Visualization and Neural Network Models using X-Ray data

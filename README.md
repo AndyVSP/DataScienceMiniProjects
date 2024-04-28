@@ -12,3 +12,7 @@ Data Cleaning, Visualization and Exploration, and Logistic Regression Model usin
 ## MP 4 & 5
 
 Data Visualization and Neural Network Models using X-Ray data
+
+## MP 6
+
+Data Visualization and Time Series Analysis
